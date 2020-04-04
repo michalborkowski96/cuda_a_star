@@ -1,0 +1,1 @@
+This is an implementation of the parallel A* alorithm for CUDA, as per the 'Massively Parallel A* Search on a GPU' paper, with a custom parallel hashmap. It is used for solving sliding puzzle (get from initial position to target position) and pathfinding (find the shortest path on a grid with weights).
